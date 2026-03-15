@@ -13,4 +13,5 @@ This project is a **Simple Interest Calculator** that calculates the interest ba
 1. Open the terminal
 2. Run the script:
    ```bash
+   Bug fix typo branch test
    bash simple-interest.sh
