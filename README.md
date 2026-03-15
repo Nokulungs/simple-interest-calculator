@@ -9,7 +9,8 @@ This project is a **Simple Interest Calculator** that calculates the interest ba
 - Input principal amount, rate of interest, and time period
 - Output the calculated interest
 .....
-
+git add README.md
+git commit -m "Updated README.md to reflect new info"
 ## Usage
 1. Open the terminal
 2. Run the script:
