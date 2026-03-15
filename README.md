@@ -8,6 +8,7 @@ This project is a **Simple Interest Calculator** that calculates the interest ba
 - Calculate simple interest using the formula: `SI = (P * R * T) / 100`
 - Input principal amount, rate of interest, and time period
 - Output the calculated interest
+.....
 
 ## Usage
 1. Open the terminal
